@@ -3,7 +3,7 @@
 # Author: Haocheng Xu, Jing Li
 # Data: 15 March, 2021
 # Contact: haocheng.xu@mail.utoronto.ca
-# License: University of Toronto
+# License: MIT
 # Pre-requisites: 
 # - Need to have downloaded the ACS data and saved it to inputs/data
 # - Read the README.md first
