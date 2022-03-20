@@ -12,7 +12,7 @@ The data set is open source in the Australian General Social Survey official web
 
 ## Author Information
 
-HaoCheng Xu，
+HaoCheng Xu,
 Jing Li
 
 ## Data Usage
