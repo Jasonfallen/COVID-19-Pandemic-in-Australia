@@ -408,7 +408,7 @@ A supplementary survey of the studied Australian GSS portion can be found in thi
 
 Note that this supplementary survey is an augmented version to address the weakness of being unable to deduce causal effect between changes in response and the COVID-19 pandemic.
 
-```{r,echo=FALSE, fig.align='center', out.width = '90%'}
+```{r,echo=FALSE, fig.align='center', out.width = '80%'}
 # screenshot for the survey
 knitr::include_graphics("Q1-3.png")
 knitr::include_graphics("Q4.png")
