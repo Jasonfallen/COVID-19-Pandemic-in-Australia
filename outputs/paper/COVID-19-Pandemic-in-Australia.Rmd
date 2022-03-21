@@ -402,11 +402,23 @@ There are also some future steps that we can take to make the study more applica
 
 # Appendix
 
-## Appendix I - Supplementary Survey
+## Supplementary Survey
 
-A supplementary survey of the studied Australian GSS portion can be found in this link: https://forms.gle/4jGGyEHRkPvmmKGY7.
+### Survey introduction
+
+Dear participants,
+
+Thank you for opening joining this questionnaire. The estimated time to complete the questionnaire is 5-10 minutes. This questionnaire is to study the impact of the COVID-19 pandemic on Australian citizens in the Family, Social trust, and Health status areas. All data will directly enter the Australian Government Statistics system for statistical analysis and your personal information will never be leaked.
+
+Sincerely,
+Government of Australian
+
+### The questionnaire
+
+A supplementary questionnaire of the studied Australian GSS portion can be found in this link: https://forms.gle/4jGGyEHRkPvmmKGY7.
 
 Note that this supplementary survey is an augmented version to address the weakness of being unable to deduce causal effect between changes in response and the COVID-19 pandemic.
+
 
 ```{r,echo=FALSE, fig.align='center', out.width = '80%'}
 # screenshot for the survey
