@@ -430,6 +430,7 @@ knitr::include_graphics("Q7-8.png")
 knitr::include_graphics("Q9-11.png")
 knitr::include_graphics("Q12-13.png")
 knitr::include_graphics("Q14-16.png")
+knitr::include_graphics("thanks.png")
 ```
 
 
