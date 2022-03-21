@@ -6,7 +6,6 @@
 # License: MIT
 # Pre-requisites: 
 # - Need to have downloaded the ACS data and saved it to inputs/data
-# - Read the README.md first
 # - Don't forget to gitignore it!
 
 
